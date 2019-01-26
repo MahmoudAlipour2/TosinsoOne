@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TosinsoOne</string>
+    <string name="Tv1">سلام برنامه نویس ها</string>
+    <string name="btnOneText">ارسال داده ها</string>
 </resources>
